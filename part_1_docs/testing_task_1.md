@@ -32,7 +32,8 @@ class CardGame:
   
 
 # total on line 36 is missing an assigned value.
-# indentation of the return on line 40 should be on the same level as the for, so it returns once the for loop has finished.
+# indentation of the return on line 41 should be on the same level as the for, so it returns once the for loop has finished.
+# The string formatting on line 41 will throw an error because you can not add a string and a int together. The int needs to be wrapped in {} and moved to the inside of the string for this to format correctly.
 def cards_total(self, cards):
   total
   for card in cards:
