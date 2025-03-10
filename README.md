@@ -2,6 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
+
+This Repository is a Course-work submission for CodeClan
+
 ## Part 1
 Find errors in the code presented and comment what is wrong with them & how to fix
 
